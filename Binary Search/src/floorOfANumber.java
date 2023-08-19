@@ -1,10 +1,9 @@
-// Ceiling = smallest element in array equal to or greater than the target element.
+// floor = smallest element in array equal to or less than the target element.
 
-import java.rmi.dgc.VMID;
 import java.util.Scanner;
 
-public class ceilingOfANumber {
-    static int ceil(int[] array, int target){
+public class floorOfANumber {
+    static int floor(int[] array, int target){
         int start = 0;
         int end = array.length - 1;
 
@@ -23,7 +22,7 @@ public class ceilingOfANumber {
                 return mid;
             }
         }
-        return start;
+        return end;
     }
 
     public static void main(String[] args) {
@@ -32,11 +31,11 @@ public class ceilingOfANumber {
 //        int[] array = {5,4,2,0,-1,-2,-12,-32};
         System.out.print("Enter target: ");
         int target = sc.nextInt();
-        int out = ceil(array, target);
+        int out = floor(array, target);
         if(out == -1){
-            System.out.print("Ceil doesn't exist in array.");
+            System.out.print("Floor doesn't exist in array.");
         }else {
-            System.out.print("Ceil of " + target + " is " + array[out]);
+            System.out.print("Floor of " + target + " is " + array[out]);
         }
     }
 }
