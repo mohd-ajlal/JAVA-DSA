@@ -6,6 +6,11 @@ public class String_main {
         String out = new String(ch);
         System.out.println(out);
         String s = "Hello World";
+//        String -> Data Type
+//        s -> Reference Variable
+//        Hello World -> Object
+
+
         System.out.println(s);
     }
 }
