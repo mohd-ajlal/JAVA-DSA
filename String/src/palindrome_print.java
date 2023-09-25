@@ -1,8 +1,4 @@
-// Check whether a string is palindrome or not
-
-import java.util.Arrays;
-
-public class palindrome {
+public class palindrome_print {
     static boolean isPalindrome(String str){
         if(str.isEmpty()){
             return true;
@@ -19,7 +15,14 @@ public class palindrome {
         return true;
     }
     public static void main(String[] args) {
-        String abc = "nitin";
-        System.out.println(isPalindrome(abc));
+        String s = "nitin";
+        for(int i = 0; i<=s.length(); i++){
+            for(int j = i+1; j<=s.length(); j++){
+                String str = s.substring(i, j);
+                if(isPalindrome(str)){
+                    System.out.println(str);
+                }
+            }
+        }
     }
 }
