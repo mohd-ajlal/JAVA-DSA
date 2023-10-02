@@ -8,7 +8,7 @@ public class StringB {
         sb.append("abc");
         s1.append("abc");
         System.out.println(s);  // immutable - cant be change
-        System.out.println(s1); // mutable
+        System.out.println(s1); // mutable - can be change
         System.out.println(sb); // mutable
 
 //        string
