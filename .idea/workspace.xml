@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1dd8b529-e9f6-4240-b63f-78dceb269ab0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Binary Search/Binary Search.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Linear-Search/Linear-Search.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortAlgorithm/SortAlgorithm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,9 +18,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2VRZAOe0x4gYMsKvfXIrTWvU7zG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,7 +32,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Java/JAVA-DSA/SortAlgorithm",
+    "last_opened_file_path": "D:/Java/JAVA-DSA/Recursion",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -44,6 +49,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694800708338</updated>
       <workItem from="1694800709535" duration="37000" />
+      <workItem from="1700603785402" duration="643000" />
     </task>
     <servers />
   </component>
