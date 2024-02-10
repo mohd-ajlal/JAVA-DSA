@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3504148e-6762-4a21-87af-b8cc46df6cfd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Mathematics/Mathematics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mathematics/src/GP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mathematics/src/exact3Divisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fabonacii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oneToN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/palindromeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerofnumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printNto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/classroom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/LinkedListTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/PCPH_Trebuchet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/ana_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/circular/circularLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/doubly/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/doubly/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/doubly/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/functional_int.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/gernerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/lambda_expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/linkedlist_ex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/linkedlist_ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/listExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/queueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/queueLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/setExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/stack/StackLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/stackExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2burgLMVojh8COd8LtysUtW4XTQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/JAVA-DSA/Recursion&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.palindromeCheck">
+    <configuration name="fabonacii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fabonacii" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oneToN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oneToN" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="palindromeCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="palindromeCheck" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="powerofnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="powerofnumber" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="printNto1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="printNto1" />
+      <module name="Recursion" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.palindromeCheck" />
+        <item itemvalue="Application.oneToN" />
+        <item itemvalue="Application.fabonacii" />
+        <item itemvalue="Application.printNto1" />
+        <item itemvalue="Application.powerofnumber" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3504148e-6762-4a21-87af-b8cc46df6cfd" name="Changes" comment="" />
+      <created>1707075916137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707075916137</updated>
+      <workItem from="1707075917186" duration="2146000" />
+      <workItem from="1707246101174" duration="1348000" />
+      <workItem from="1707279198312" duration="28000" />
+      <workItem from="1707320702667" duration="1471000" />
+      <workItem from="1707338289673" duration="2452000" />
+      <workItem from="1707380938200" duration="22000" />
+      <workItem from="1707504066156" duration="809000" />
+      <workItem from="1707562117303" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
