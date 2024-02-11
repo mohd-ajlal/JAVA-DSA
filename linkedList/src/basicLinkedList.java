@@ -1,7 +1,18 @@
 public class basicLinkedList {
     public static void display(Node head){
         Node temp =head;
+        while(temp!= null){
+            System.out.print(temp.data + " ");
+            temp = temp.next;
+        }
+        System.out.println();
+    }
 
+    public static void displayR(Node head){
+        if(head == null)
+            return;
+        System.out.print(head.data + " ");
+        displayR(head.next);
     }
     static class Node{
         int data; // value
@@ -50,6 +61,8 @@ public class basicLinkedList {
 
         System.out.println("Using function");
         display(a);
+        System.out.println("Using recursive function");
+        displayR(a);
 
     }
 }
