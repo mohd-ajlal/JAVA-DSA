@@ -1,4 +1,12 @@
 public class basicLinkedList {
+    static class Node{
+    int data; // value
+    Node next; // address of next node
+    Node(int data){
+        this.data = data;
+    }
+}
+
     public static void display(Node head){
         Node temp =head;
         while(temp!= null){
@@ -14,13 +22,23 @@ public class basicLinkedList {
         System.out.print(head.data + " ");
         displayR(head.next);
     }
-    static class Node{
-        int data; // value
-        Node next; // address of next node
-        Node(int data){
-            this.data = data;
+
+    public static int length(Node head){
+        int count = 0;
+        Node temp = head;
+        while (temp!=null){
+            count++;
+            temp = temp.next;
         }
+        return count;
     }
+
+    public static int lengthR(Node head) {
+        if (head == null)
+            return 0;
+        return 1 + lengthR(head.next);
+    }
+
     public static void main(String[] args) {
         Node a = new Node(5);
         System.out.println(a.next); // null
@@ -63,6 +81,8 @@ public class basicLinkedList {
         display(a);
         System.out.println("Using recursive function");
         displayR(a);
-
+        System.out.println();
+        System.out.println(lengthR(a));
+        System.out.println(length(a));
     }
 }
