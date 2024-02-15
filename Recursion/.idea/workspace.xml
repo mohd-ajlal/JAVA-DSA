@@ -5,42 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3504148e-6762-4a21-87af-b8cc46df6cfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Mathematics/Mathematics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mathematics/src/GP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Mathematics/src/exact3Divisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fabonacii.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oneToN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/palindromeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/powerofnumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printNto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursion2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/classroom.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/LinkedListTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/PCPH_Trebuchet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/ana_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/circular/circularLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/doubly/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/doubly/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/doubly/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/functional_int.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/gernerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/lambda_expression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/linkedlist_ex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/linkedlist_ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/listExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/queueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/queueLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/setExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/stack/StackLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/stackExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/leetcodedemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/recursion/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/recursion/fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/stringRev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,22 +36,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Java/JAVA-DSA/Recursion&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Java/JAVA-DSA/classroom",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.palindromeCheck">
+}]]></component>
+  <component name="RunManager">
     <configuration name="fabonacii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fabonacii" />
       <module name="Recursion" />
@@ -143,6 +113,7 @@
       <workItem from="1707380938200" duration="22000" />
       <workItem from="1707504066156" duration="809000" />
       <workItem from="1707562117303" duration="51000" />
+      <workItem from="1707987445379" duration="641000" />
     </task>
     <servers />
   </component>
