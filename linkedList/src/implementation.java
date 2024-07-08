@@ -34,11 +34,30 @@ public class implementation {
         void insertAt(int val, int index){
             Node t = new Node(val);
             Node temp = head;
+            if(index==size()){
+                insertAtEnd(val);
+                return;
+            }
+            if(index==0){
+                insertAtFirst(val);
+                return;
+            } else if (index<0 || index>size()) {
+                System.out.println("Wrong Index");
+                return;
+            }
             for(int i = 1; i<=index-1; i++){
                 temp = temp.next;
             }
             t.next = temp.next;
             temp.next = t;
+        }
+
+        int getAt(int index){
+            Node temp = head;
+            for(int i = 1; i<=index; i++){
+                temp = temp.next;
+            }
+            return temp.data;
         }
 
         void display(){
@@ -73,5 +92,9 @@ public class implementation {
         System.out.println("insert At Mid: ");
         ll.insertAt(100, 2);
         ll.display();
+
+        System.out.println(ll.getAt(2));
+        ll.display();
+
     }
 }

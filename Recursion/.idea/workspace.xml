@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3504148e-6762-4a21-87af-b8cc46df6cfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/leetcodedemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/recursion/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/recursion/fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../classroom/src/stringRev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/digitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../classroom/src/recursion/leetcodedemo3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fabonacii.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fabonacii.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/palindromeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/palindromeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classroom/src/recursion/fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../classroom/src/recursion/fibonacci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,21 +36,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Java/JAVA-DSA/classroom",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java/JAVA-DSA/Recursion&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="fabonacii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fabonacii" />
@@ -89,9 +89,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fabonacii" />
         <item itemvalue="Application.palindromeCheck" />
         <item itemvalue="Application.oneToN" />
-        <item itemvalue="Application.fabonacii" />
         <item itemvalue="Application.printNto1" />
         <item itemvalue="Application.powerofnumber" />
       </list>
@@ -113,11 +113,28 @@
       <workItem from="1707380938200" duration="22000" />
       <workItem from="1707504066156" duration="809000" />
       <workItem from="1707562117303" duration="51000" />
-      <workItem from="1707987445379" duration="641000" />
+      <workItem from="1707987445379" duration="1744000" />
+      <workItem from="1708021202085" duration="818000" />
+      <workItem from="1708054633782" duration="3469000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/fabonacii.java</url>
+          <line>1</line>
+          <properties class="fabonacii" method="fabonaciiRecursion">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

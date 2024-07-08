@@ -5,7 +5,7 @@ public class fabonacii {
         return fabonaciiRecursion(n - 1) + fabonaciiRecursion(n - 2);
     }
     public static void main(String[] args) {
-        int n = 0;
+        int n = 5;
         System.out.println(
                 n + "th Fibonacci Number: " + fabonaciiRecursion(n));
     }

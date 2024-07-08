@@ -4,5 +4,6 @@ public class equal {
         String name2 = new String("Ajlal");
         System.out.println(name1.equals(name2));
         System.out.println(name1.charAt(0));
+        
     }
 }
